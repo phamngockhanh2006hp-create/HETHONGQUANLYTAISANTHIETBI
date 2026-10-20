@@ -1,0 +1,8 @@
+{
+  "name": "Remix Hệ thống Quản lý Tài sản Thiết bị",
+  "description": "Hệ thống quản lý toàn bộ vòng đời tài sản thiết bị phòng thí nghiệm trên nền tảng Blockchain",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
